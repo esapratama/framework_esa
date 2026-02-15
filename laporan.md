@@ -16,7 +16,7 @@
 
 ## Langkah 1 – Pengecekan Lingkungan
 
-![logo](praktikum/img/LOGO_POLINEMA.png)
+![langkah1](img/LOGO_POLINEMA.png)
 
 ## Langkah 2 – Membuat Project Next.js
 
